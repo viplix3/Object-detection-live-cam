@@ -22,6 +22,6 @@ Press Esc key to exit the program
 />
 
 <img
-	src=etc/2.png
+	src=etc/3.png
 	align='center'
 />
